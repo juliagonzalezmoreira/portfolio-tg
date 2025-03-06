@@ -53,16 +53,11 @@ O desafio foi fornecer aos usuários uma maneira simples de entender e aplicar o
 A solução foi um site desenvolvido com Flask (Python) para a parte de back-end, e HTML, CSS e Bootstrap para a construção da interface do usuário. O site apresenta os conceitos de forma clara, inclui exemplos práticos da metodologia e oferece um sistema de avaliação que mede o processo, produto e conhecimento do usuário. O sistema foi projetado para ser intuitivo, sem sobrecarregar o usuário com informações excessivas.
 
 🔧 **Tecnologias utilizadas**
+|  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) | ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
+|-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|
+|Estruturação do conteúdo do site, como seções sobre a Metodologia Ágil e avaliações.|Estilização do layout e adaptação para dispositivos móveis, garantindo uma interface limpa e visualmente agradável.|Desenvolvimento do back-end, gerenciando rotas e lógica de processamento de dados.| Funcionalidades interativas, como o sistema de avaliação e validações de formulários.| Layout responsivo e componentes prontos, como botões, para otimizar o design.| Protótipos da interface do usuário, colaborando com os desenvolvedores no design do site. | Gestão de tarefas, organização do backlog e acompanhamento do progresso do projeto. | Controle de versão e colaboração entre os membros da equipe. |
 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
- ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
  🗣️ **Soft Skills**
 
