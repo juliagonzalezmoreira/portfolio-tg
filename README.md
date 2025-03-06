@@ -2,6 +2,8 @@
 
 ## Introdução
 
+<img align="left" src="https://github.com/user-attachments/assets/c287d1b6-2eae-431a-80ab-3547a837d5d4" alt="my-profile" width="250"/>
+
 <br>
 
 Olá! Meu nome é Julia Gonzalez Moreira e atualmente estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal.
@@ -29,9 +31,9 @@ Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a inovaç�
  
 ## Meus Principais Conhecimentos
 
-| **JavaScript**  | **Python**     | **Node.js**    | **MySQL**       | **PostgreSQL**  | **DBeaver**    | **Java**       | **Figma**       | **Canva**      |
+| **TypeScript**  | **React**     | **JavaScript**    | **MySQL**       | **Python**  | **Java**    | **HTML**       | **CSS**       | **Git**      |
 |-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|----------------|
-|-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|----------------|
+|![TypeScript](https://github.com/user-attachments/assets/b6e3a609-9914-47e1-a2e4-adab14fdecb1) | ![React](https://github.com/user-attachments/assets/51f7fbca-172f-4ca6-ad5c-61df27a9b402) | ![JavaScript](https://github.com/user-attachments/assets/28fb3d11-eb57-4cbf-a7a4-72420f3023cf) | ![MySql](https://github.com/user-attachments/assets/df3a53f4-f182-4a9c-a65c-b7accfb2c1b3) | ![Python](https://github.com/user-attachments/assets/214b2cad-1d38-4901-b230-b7fe60fdca42) | ![Java](https://github.com/user-attachments/assets/087f74ea-3ec0-428d-a807-6cc643ba9999) | ![HTML](https://github.com/user-attachments/assets/34330f9e-3124-4532-a2de-b37ff305c3bc) | ![CSS](https://github.com/user-attachments/assets/3250d14d-b14b-4554-aa4c-6c4e3d6c2b8a) | ![GIT](https://github.com/user-attachments/assets/f8ddb0e6-29e2-4120-89d7-72405b0923ce) |
 
 ## 2023 - 1º Semestre
 ### Tech School
