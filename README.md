@@ -10,11 +10,11 @@ Olá! Meu nome é Julia Gonzalez Moreira e atualmente estou no 5º semestre do c
 
 Minha paixão por tecnologia começou ainda no ensino médio técnico, onde tive minhas primeiras experiências com programação e sistemas. Essa base foi essencial para construir minha trajetória e solidificar meu interesse por desenvolvimento de software e qualidade de sistemas. Ao ingressar na Fatec, percebi que poderia transformar essa curiosidade em uma carreira promissora e focada na inovação.
 
-Durante minha jornada acadêmica, tenho me aprofundado no desenvolvimento web e na qualidade de software, sempre buscando evoluir minhas habilidades técnicas e, ao mesmo tempo, desenvolver soft skills que são fundamentais para o ambiente profissional. No curso, tive a oportunidade de trabalhar com diversas e de me aprofundar em metodologias ágeis. Uma experiência marcante foi atuar como Product Owner em um projeto acadêmico, onde gerenciei o backlog, priorizei tarefas e facilitei a comunicação entre a equipe e os stakeholders.
+Durante minha jornada acadêmica, tenho me aprofundado no desenvolvimento web e na qualidade de software, sempre buscando evoluir minhas habilidades técnicas e, ao mesmo tempo, desenvolver soft skills que são fundamentais para o ambiente profissional. No curso, tive a oportunidade de trabalhar com diversas tecnologias e de me aprofundar em metodologias ágeis. Uma experiência marcante foi atuar como Product Owner em um projeto acadêmico, onde gerenciei o backlog, priorizei tarefas e facilitei a comunicação entre a equipe e o cliente.
 
-Profissionalmente, já tive a chance de atuar na área de testes de software, realizando testes manuais e automatizados com ferramentas como Cypress e Playwright. Desenvolvi scripts de automação para otimizar fluxos de trabalho e garanti a qualidade e a validação de requisitos funcionais e não funcionais em sistemas. Também tenho experiência em desenvolvimento web, criando interfaces responsivas utilizando React, HTML, CSS e JavaScript, além de implementar soluções com TypeScript e SQL para integração de sistemas. Trabalhei em equipes multidisciplinares, utilizando metodologias ágeis, como Scrum e Kanban, para otimizar processos e entregar soluções de qualidade.
+Profissionalmente, tive a chance de atuar na área de testes de software, realizando testes manuais e automatizados com ferramentas como Cypress e Playwright. Desenvolvi scripts de automação para otimizar fluxos de trabalho e garanti a qualidade e a validação de requisitos funcionais e não funcionais em sistemas. Também tenho experiência em desenvolvimento web, criando interfaces responsivas utilizando React, HTML, CSS e JavaScript, além de implementar soluções com TypeScript e SQL. Trabalhei utilizando metodologias ágeis, como Scrum e Kanban, para otimizar processos e entregar soluções de qualidade.
 
-Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a inovação e melhorar a vida das pessoas. Estou sempre disposta a aprender, me adaptar às mudanças do setor e contribuir com minha experiência para alcançar resultados excepcionais.
+Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a inovação e melhorar a vida das pessoas. Estou sempre disposta a aprender, me adaptar às mudanças do setor e contribuir com a minha experiência para alcançar resultados excepcionais.
 
 <br>
 
@@ -64,7 +64,7 @@ A solução foi um site desenvolvido com Flask (Python) para a parte de back-end
 * Comunicação: Facilitando a interação entre os membros da equipe e garantindo que todos estivessem alinhados com os objetivos do projeto.
 * Liderança: Como Product Owner, liderei as decisões de priorização do backlog e fui responsável por guiar a equipe para o cumprimento das metas.
 * Gestão de Tempo: Organizei e acompanhei as entregas de cada sprint para garantir que o projeto fosse concluído dentro do prazo estipulado.
-* Colaboração: Trabalhei em estreita colaboração com os desenvolvedores e outros stakeholders para garantir que todos os aspectos do projeto estivessem em sintonia.
+* Colaboração: Trabalhei em colaboração com os desenvolvedores e outros stakeholders para garantir que todos os aspectos do projeto estivessem em sintonia.
 
 👩‍💻 **Hard Skills**
 
