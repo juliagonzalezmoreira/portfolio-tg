@@ -6,15 +6,15 @@
 
 <br>
 
-Olá! Meu nome é Julia Gonzalez Moreira e atualmente estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal.
-
-Minha paixão por tecnologia começou ainda no ensino médio técnico, onde tive minhas primeiras experiências com programação e sistemas. Essa base foi essencial para construir minha trajetória e solidificar meu interesse por desenvolvimento de software e qualidade de sistemas. Ao ingressar na Fatec, percebi que poderia transformar essa curiosidade em uma carreira promissora e focada na inovação.
-
-Durante minha jornada acadêmica, tenho me aprofundado no desenvolvimento web e na qualidade de software, sempre buscando evoluir minhas habilidades técnicas e, ao mesmo tempo, desenvolver soft skills que são fundamentais para o ambiente profissional. No curso, tive a oportunidade de trabalhar com diversas tecnologias e de me aprofundar em metodologias ágeis. Uma experiência marcante foi atuar como Product Owner em um projeto acadêmico, onde gerenciei o backlog, priorizei tarefas e facilitei a comunicação entre a equipe e o cliente.
-
-Profissionalmente, tive a chance de atuar na área de testes de software, realizando testes manuais e automatizados com ferramentas como Cypress e Playwright. Desenvolvi scripts de automação para otimizar fluxos de trabalho e garanti a qualidade e a validação de requisitos funcionais e não funcionais em sistemas. Também tenho experiência em desenvolvimento web, criando interfaces responsivas utilizando React, HTML, CSS e JavaScript, além de implementar soluções com TypeScript e SQL. Trabalhei utilizando metodologias ágeis, como Scrum e Kanban, para otimizar processos e entregar soluções de qualidade.
-
-Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a inovação e melhorar a vida das pessoas. Estou sempre disposta a aprender, me adaptar às mudanças do setor e contribuir com a minha experiência para alcançar resultados excepcionais.
+Olá, Meu nome é Julia Gonzalez Moreira e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal.
+ 
+Minha trajetória na área de tecnologia teve início no ensino médio técnico, onde tive minhas primeiras experiências com programação e sistemas. Esta base inicial foi fundamental para o desenvolvimento do meu interesse em desenvolvimento de software e qualidade de sistemas. Ao ingressar na FATEC, percebi a oportunidade de transformar minha curiosidade em uma carreira promissora, focada em inovação e aprimoramento constante.
+ 
+Durante minha jornada acadêmica, tenho me dedicado ao aprofundamento no desenvolvimento web e na qualidade de software, buscando constantemente evoluir tanto minhas habilidades técnicas quanto as competências interpessoais essenciais para o ambiente profissional. No decorrer do curso, tive a oportunidade de trabalhar com diversas tecnologias e aprofundar meus conhecimentos em metodologias ágeis. Uma experiência significativa foi minha atuação como Product Owner em um projeto acadêmico, no qual gerenciei o backlog, priorizei as tarefas e facilitei a comunicação entre a equipe e o cliente.
+ 
+Profissionalmente, tive a oportunidade de atuar na área de testes de software, realizando testes manuais e automatizados utilizando ferramentas como Cypress e Playwright. Desenvolvi scripts de automação com o objetivo de otimizar fluxos de trabalho e garantir a qualidade e validação dos requisitos funcionais e não funcionais de sistemas. Além disso, possuo experiência no desenvolvimento de interfaces web responsivas, utilizando React, HTML, CSS e JavaScript, e na implementação de soluções com TypeScript e SQL. Ao longo dessas experiências, trabalhei com metodologias ágeis, como Scrum e Kanban, visando otimizar processos e entregar soluções de qualidade.
+ 
+Acredito firmemente que a tecnologia é uma poderosa ferramenta para impulsionar a inovação e melhorar a qualidade de vida das pessoas. Estou constantemente disposta a aprender, me adaptar às mudanças do setor e contribuir com minha experiência para alcançar resultados excepcionais.
 
 <br>
 
@@ -75,4 +75,4 @@ A solução foi um site desenvolvido com Flask (Python) para a parte de back-end
 
 📍 **Minhas Contribuições**
 
-Além de atuar como Product Owner, onde fui responsável por definir e priorizar os requisitos do projeto, organizar o backlog e gerenciar as sprints, também participei ativamente do desenvolvimento do site. Contribuí com a construção das interfaces, trabalhando com HTML, CSS e Bootstrap, e implementei funcionalidades utilizando JavaScript. Facilitei a comunicação entre os membros da equipe, garantindo que todos estivessem alinhados e as entregas fossem feitas conforme o planejado. Participei das reuniões de planejamento e revisão das sprints, assegurando que o site atendesse aos requisitos funcionais e não-funcionais e fosse entregue dentro do prazo.
+Além de exercer a função de Product Owner, na qual fui responsável por definir e priorizar os requisitos do projeto, organizar o backlog e gerenciar as sprints, também participei de forma ativa no desenvolvimento do site. Contribuí na construção das interfaces, utilizando HTML, CSS e Bootstrap, e implementei funcionalidades por meio de JavaScript. Além disso, facilitei a comunicação entre os membros da equipe, assegurando que todos estivessem alinhados e que as entregas fossem realizadas conforme o planejamento. Estive presente nas reuniões de planejamento e revisão das sprints, garantindo que o site atendesse aos requisitos funcionais e não funcionais, e fosse entregue dentro do prazo estipulado.
