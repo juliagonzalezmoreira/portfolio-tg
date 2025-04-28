@@ -21,7 +21,11 @@ Acredito firmemente que a tecnologia é uma poderosa ferramenta para impulsionar
  > **Índice de Projetos - API**
 
  <p>
-  • <a href="#tech-school"> 2023-1: Tech School </a>  
+  • <a href="#tech-school"> 2023-1: Tech School </a>  </br>
+  • <a href="#assistente-virtual-zari"> 2023-2: Assistente Virtual Zari </a>  </br>
+  • <a href="#dashboard-pro4tech"> 2024-1: Dashboard Pro4Tech </a>  </br>
+  • <a href="#we-coleb"> 2024-2: WE COLEB </a>  </br>
+  • <a href="#sistema-de-reembolso"> 2025-1: Sistema de Reembolso </a>  </br>
 </p>
 
 ## Contatos
@@ -60,7 +64,6 @@ A solução foi um site desenvolvido com Flask (Python) para a parte de back-end
 |  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) | ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
 |-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|
 |Estruturação do conteúdo do site, como seções sobre a Metodologia Ágil e avaliações.|Estilização do layout e adaptação para dispositivos móveis, garantindo uma interface limpa e visualmente agradável.|Desenvolvimento do back-end, gerenciando rotas e lógica de processamento de dados.| Funcionalidades interativas, como o sistema de avaliação e validações de formulários.| Layout responsivo e componentes prontos, como botões, para otimizar o design.| Protótipos da interface do usuário, colaborando com os desenvolvedores no design do site. | Gestão de tarefas, organização do backlog e acompanhamento do progresso do projeto. | Controle de versão e colaboração entre os membros da equipe. |
-
 
  🗣️ **Soft Skills**
  
@@ -134,3 +137,159 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 Neste projeto, atuei como desenvolvedora front-end, sendo responsável pela construção das telas de interação do chatbot. Utilizando bibliotecas gráficas do Java, desenvolvi a interface do usuário baseada nos protótipos definidos no Figma, garantindo simplicidade e eficiência na navegação.
 Colaborei diretamente com o time de back-end para definir o fluxo de dados entre a interface gráfica e a lógica de leitura dos documentos. Também participei da modelagem inicial do banco de dados, contribuindo para a definição dos níveis de acesso dos usuários e a estruturação das tabelas no MySQL.
 Além disso, participei ativamente das etapas de prototipação, validação de funcionalidades durante os testes de usabilidade, e da entrega final do projeto, garantindo que a interface estivesse integrada corretamente ao sistema.
+
+## **2024 - 3º Semestre**
+### Dashboard Pro4Tech
+
+**👥 Parceiro acadêmico:** Pro4Tech
+
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
+
+🎯 **Objetivo do Projeto**
+
+O objetivo deste projeto foi criar um dashboard dinâmico e interativo para análise e visualização de dados de vendas. O sistema foi projetado para gerar insights visuais claros e rápidos, permitindo que a Pro4Tech tomasse decisões estratégicas baseadas em dados reais, a principal meta foi facilitar a interpretação de grandes volumes de dados de vendas.
+
+🏢 **Sobre a Empresa**
+
+A Pro4Tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital combinando tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas a capacidade de desenvolver estratégias personalizadas para cada negócio.
+
+📍 **Problema**
+
+A Pro4Tech enfrentava o desafio de gerenciar e interpretar grandes volumes de dados de vendas que estavam armazenados em planilhas Excel. Embora os dados estivessem bem estruturados, a empresa enfrentava dificuldades em visualizar informações importantes de forma rápida e eficiente. Os relatórios manualmente gerados a partir das planilhas eram demorados e complexos, o que tornava o processo de tomada de decisão mais lento e sujeito a erros. Além disso, a necessidade de gerar relatórios segmentados e personalizáveis não era atendida pelas ferramentas existentes, tornando o trabalho dos analistas muito mais desafiador.
+
+📍 **Solução**
+
+Foi criado um sistema web que importa dados diretamente de arquivos Excel, armazena-os em banco de dados, e os exibe em gráficos e tabelas no dashboard. O sistema permite segmentação de dados, cálculo automático de comissões e visualizações personalizadas para gerentes e funcionários.
+
+🔧 **Tecnologias Utilizadas**
+
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
+|-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|
+| Desenvolvimento das funcionalidades com foco em tipagem segura e escalabilidade. | Construção de scripts interativos para componentes do dashboard e manipulação de dados. | Desenvolvimento da interface completa, incluindo visualizações de vendas, filtros e formulários. | Criação do servidor backend para upload de planilhas, processamento dos dados e integração com o banco. | Modelagem do banco de dados e persistência segura das informações. | Criação dos protótipos de interface, priorizando usabilidade e visual atrativo. | Controle de versão e organização do repositório de código. | Gestão de tarefas ágil, comunicação e organização da equipe durante o projeto. |
+
+
+### 🗣️ **Soft Skills Desenvolvidas**
+
+- **Trabalho em Equipe**: Participei ativamente de reuniões de alinhamento e planejamento, garantindo que o desenvolvimento do front-end estivesse integrado com o processamento de dados realizado pelo back-end. Trabalhei lado a lado com colegas de desenvolvimento e design, dividindo responsabilidades de maneira equilibrada.
+- **Comunicação**: Mantive comunicação constante através do Slack e em reuniões semanais para esclarecer dúvidas, reportar progresso e levantar necessidades técnicas, facilitando a fluidez do projeto e evitando retrabalho.
+- **Responsabilidade**: Assumi autonomamente a responsabilidade pelo desenvolvimento de telas principais do sistema, entregando funcionalidades dentro dos prazos combinados e me comprometendo a manter o alto padrão de qualidade do projeto.
+- **Pensamento Crítico**: Realizei testes de usabilidade e análises constantes sobre a interação dos usuários com o dashboard, propondo melhorias para tornar a experiência mais intuitiva, como otimizações nos filtros e nos layouts dos gráficos.
+
+### 👩‍💻 **Hard Skills**
+
+- **React**: Uso com autonomia para desenvolvimento completo da interface do dashboard, criação de componentes reutilizáveis e adaptação responsiva da aplicação.
+- **TypeScript**: Uso com autonomia para definição de tipagens seguras nos componentes e melhoria da qualidade e legibilidade do código front-end.
+- **JavaScript**: Uso com autonomia no desenvolvimento de funcionalidades dinâmicas e integração com a API de backend.
+- **Node.js**: Uso com ajuda na integração entre o front-end e o back-end, realizando chamadas API para processamento e carregamento de dados de vendas.
+- **MySQL**: Uso com ajuda, principalmente na validação de consultas e estrutura de banco de dados para garantir integridade dos dados exibidos no dashboard.
+- **Figma**: Uso com autonomia para interpretação dos protótipos de telas e adaptação de layouts de acordo com os testes de usabilidade.
+- **GitHub**: Uso com autonomia para versionamento do projeto, gerenciamento de branches e colaboração no repositório em equipe.
+- **Trello**: Uso com autonomia para organização de tarefas, acompanhamento de sprints e priorização das entregas durante o projeto.
+ 
+### 📍 **Minhas Contribuições**
+
+Atuei como desenvolvedora, sendo responsável pela implementação da estrutura visual do sistema, incluindo o dashboard de vendas e gráficos interativos. Trabalhei de forma próxima ao time para garantir que os dados extraídos dos arquivos Excel fossem exibidos corretamente na interface. Participei na prototipação de telas no Figma e sugeri melhorias para tornar a navegação mais intuitiva. Auxiliei também nos testes de validação de dados e usabilidade, garantindo consistência entre o que era exibido no sistema e os dados reais da empresa, contribuindo para uma solução confiável e funcional.
+
+## 2024 - 4º Semestre
+### WE COLEB
+
+👥 **Parceiro acadêmico:** JJM Log
+
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
+
+🎯 **Objetivo do Projeto**
+
+O objetivo deste projeto foi desenvolver um sistema web que otimizasse o controle de processos internos na JJM Log, facilitando a colaboração entre diferentes departamentos e automatizando atividades manuais. A principal meta foi melhorar a integração entre setores e proporcionar uma gestão de demandas mais eficiente e em tempo real.
+
+🏢 **Sobre a Empresa**
+
+A JJM Log é uma empresa de logística que atua na gestão de transporte, armazenagem e entrega de mercadorias. Focada em eficiência e rastreabilidade, a JJM Log busca soluções que proporcionem mais agilidade e visibilidade em seus processos operacionais.
+
+📍 **Problema**
+
+A empresa enfrentava desafios relacionados ao controle de processos internos, com fluxos manuais e o uso de múltiplas ferramentas não integradas, o que dificultava a visibilidade e a colaboração entre departamentos. A falta de uma plataforma centralizada resultava em ineficiência e dificuldades na comunicação entre as equipes.
+
+📍 **Solução**
+
+Foi criado um sistema web com funcionalidades específicas para o controle de demandas internas, com telas customizadas para diferentes tipos de usuários e permissões. O sistema automatizou processos manuais e facilitou o acompanhamento das atividades em tempo real, promovendo maior colaboração e integração entre os departamentos da JJM Log.
+
+🔧 **Tecnologias Utilizadas**
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white) |
+|-----------------|-----------------|-----------------|-----------------|----------------|----------------|-----------------|
+| Desenvolvimento da interface interativa com componentes dinâmicos e responsivos. | Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade. | Desenvolvimento da lógica de backend e integração com banco de dados. | Modelagem e persistência dos dados de usuários, permissões e atividades. | Criação de protótipos e validação das telas com stakeholders. | Versionamento e organização do código do projeto. | Gestão de tarefas, sprints e prioridades durante o ciclo de desenvolvimento. |
+	
+ 🗣️ **Soft Skills Desenvolvidas**
+
+* Trabalho em Equipe: Colaborei intensamente com os membros da equipe, garantindo que as diferentes partes do sistema se integrassem de forma eficiente. Isso incluiu o desenvolvimento colaborativo das funcionalidades de controle de tarefas, onde discutíamos e planejávamos as melhores soluções para os problemas apresentados pela JJM Log.
+
+* Comunicação: Durante o desenvolvimento, participei de reuniões regulares para garantir que as funcionalidades do sistema atendiam às necessidades reais da empresa. Mantive uma comunicação clara e objetiva, reportando progresso, esclarecendo dúvidas e levantando pontos de melhoria de forma eficiente. Essa comunicação constante foi fundamental para o alinhamento das expectativas e para evitar retrabalho.
+
+* Proatividade: Identifiquei e sugeri melhorias no fluxo de trabalho do sistema. Também participei ativamente de testes de usabilidade, sugerindo ajustes para melhorar a experiência do usuário e otimizar processos internos.
+
+* Organização e Planejamento: Utilizei ferramentas como Trello para priorizar as minhas tarefas essenciais, cumprindo prazos rigorosamente. Minha habilidade de organização foi crucial para o cumprimento do cronograma do projeto e para a entrega das funcionalidades dentro do prazo estabelecido.
+
+👩‍💻 **Hard Skills**
+
+* React: Uso com autonomia para o desenvolvimento da interface interativa e criação de componentes reutilizáveis, garantindo uma experiência de usuário fluída e dinâmica.
+* TypeScript: Uso com autonomia para definição de tipos e organização do código, melhorando a qualidade e a legibilidade do código front-end, além de garantir que a tipagem segura fosse implementada de forma eficiente.
+* Node.js: Uso com ajuda na integração do front-end com o back-end, auxiliando na criação de rotas e lógica de negócios para a comunicação entre o cliente e o servidor.
+* MySQL: Uso com ajuda na modelagem e manutenção do banco de dados, ajudando a estruturar tabelas e consultas que garantissem a persistência de dados cruciais para o sistema de controle de atividades.
+* Figma: Uso com autonomia para criar protótipos de interface, interpretar as necessidades dos usuários e aplicar melhorias no design, considerando os feedbacks recebidos.
+* GitHub: Uso com autonomia para gerenciar versões do código, organizar branches e colaborar no repositório, mantendo o controle das alterações realizadas por todos os membros da equipe.
+* Trello: Uso com autonomia para organizar tarefas, definir prioridades e acompanhar o progresso do projeto durante o ciclo de desenvolvimento.
+
+📍 **Minhas Contribuições**
+Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Trabalhei de forma colaborativa com a equipe de back-end para garantir que os dados fossem corretamente exibidos e atualizados em tempo real. Também ajudei a criar os protótipos de interface no Figma e participei ativamente das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
+
+## 2025 - 5º Semestre
+### Sistema de Reembolso
+
+👥 **Parceiro acadêmico:** GSW Software
+
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+
+🎯 **Objetivo do Projeto**
+O objetivo deste projeto foi criar um aplicativo móvel para a solicitação de reembolsos de despesas pelos colaboradores da GSW Software. A principal meta foi automatizar e agilizar o processo de solicitação, garantindo que os dados de reembolso fossem registrados com precisão, enviados para aprovação de forma eficiente e gerenciados de maneira centralizada.
+
+🏢 **Sobre a Empresa**
+A GSW Software é uma empresa especializada no desenvolvimento de soluções tecnológicas para otimização de processos empresariais. A empresa oferece sistemas personalizados, incluindo ERP e ferramentas para gestão de despesas, sempre focada em aumentar a produtividade e a eficiência dos seus clientes.
+
+📍 **Problema**
+A GSW Software enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que gerava atrasos e inconsistências nas informações. A ausência de um sistema automatizado dificultava a auditoria e o controle das despesas, o que resultava em uma experiência pouco ágil para os colaboradores e para o setor financeiro da empresa.
+
+📍 **Solução**
+Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registrassem suas despesas de forma rápida e segura, anexassem comprovantes e enviassem as solicitações diretamente para o setor financeiro. O sistema também possui uma área administrativa para análise e aprovação dos reembolsos, com visualização de históricos e relatórios detalhados.
+
+🔧 **Tecnologias Utilizadas**
+
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|----------------|----------------|-----------------|----------------|
+| Desenvolvimento da interface interativa com componentes dinâmicos e responsivos. | Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade. | Desenvolvimento de funcionalidades dinâmicas e integração com APIs. | Desenvolvimento do back-end e manipulação de dados no servidor. | Armazenamento de dados de forma flexível e escalável. | Modelagem e persistência de dados em banco relacional. | Criação de protótipos de telas e definição da experiência do usuário. | Desenvolvimento mobile com otimização e facilidade de execução. |garantir compatibilidade entre o app React Native e o sistema Android, integrando os dispositivos. | Gestão de tarefas, sprints e acompanhamento do progresso do projeto. |
+
+🗣️ **Soft Skills**
+
+* Trabalho em Equipe: Colaborei estreitamente com os colegas de desenvolvimento, garantindo que a integração entre as diferentes partes do sistema, como a lógica de upload de foto de perfil e a implementação da página inicial, fosse fluida e eficiente. Além disso, participei ativamente de reuniões de alinhamento e sprint, ajudando a organizar a distribuição de tarefas.
+
+* Comunicação: Mantive uma comunicação constante com a equipe, utilizando o Jira para acompanhar o progresso e o Slack para esclarecer dúvidas. A comunicação aberta permitiu identificar rapidamente problemas e implementações que necessitavam de ajustes, garantindo entregas rápidas e eficientes.
+
+* Responsabilidade: Assumi a responsabilidade pelo desenvolvimento da página inicial, garantindo que fosse não apenas funcional, mas também intuitiva e alinhada com as expectativas dos usuários, buscando garantir que o fluxo fosse simples e direto.
+
+* Pensamento Crítico: Durante o desenvolvimento das funcionalidades de usabilidade, como os alertas de confirmação e feedback para o upload de foto, propondo soluções que facilitassem a navegação e aumentassem a eficiência. Sempre busquei identificar possíveis melhorias, como ajustes no layout da página inicial, para garantir que a experiência do usuário fosse otimizada.
+
+* Organização: Com a gestão de tarefas no Jira, ajudei a organizar as atividades do projeto, focando nas prioridades e mantendo todos os membros da equipe cientes dos prazos. Isso garantiu uma boa fluidez durante o desenvolvimento e a entrega das funcionalidades planejadas.
+
+👩‍💻 **Hard Skills**
+* TypeScript: Uso com autonomia para tipagem segura e melhoria da qualidade do código.
+* JavaScript: Uso com autonomia para desenvolver funcionalidades dinâmicas e integrar com APIs.
+* React: Uso com autonomia para criar componentes reutilizáveis e desenvolver a interface web responsiva.
+* React Native: Uso com autonomia para desenvolver a interface móvel com foco em performance e usabilidade.
+* Node.js: Uso com ajuda para desenvolver o back-end e manipular dados no servidor.
+* MongoDB: Uso com ajuda para armazenar dados de maneira flexível e escalável.
+* MySQL: Uso com ajuda para modelar o banco de dados relacional e persistir dados de forma eficiente.
+* Android Studio: Uso com ajuda para garantir compatibilidade entre o app React Native e o sistema Android.
+* Expo: Uso com autonomia para otimizar o desenvolvimento mobile e facilitar a execução de projetos React Native.
+* Figma: Uso com autonomia para criar protótipos e definir interfaces com foco na experiência do usuário.
+* JIRA: Uso com autonomia para gerenciar tarefas, acompanhar progresso e priorizar sprints no desenvolvimento ágil.
+
+📍 **Minhas Contribuições**
+Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do upload de foto de perfil, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
