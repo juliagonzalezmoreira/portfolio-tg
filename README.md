@@ -168,14 +168,14 @@ Foi criado um sistema web que importa dados diretamente de arquivos Excel, armaz
 | Desenvolvimento das funcionalidades com foco em tipagem segura e escalabilidade. | Construção de scripts interativos para componentes do dashboard e manipulação de dados. | Desenvolvimento da interface completa, incluindo visualizações de vendas, filtros e formulários. | Criação do servidor backend para upload de planilhas, processamento dos dados e integração com o banco. | Modelagem do banco de dados e persistência segura das informações. | Criação dos protótipos de interface, priorizando usabilidade e visual atrativo. | Controle de versão e organização do repositório de código. | Gestão de tarefas ágil, comunicação e organização da equipe durante o projeto. |
 
 
-### 🗣️ **Soft Skills Desenvolvidas**
+🗣️ **Soft Skills**
 
 - **Trabalho em Equipe**: Participei ativamente de reuniões de alinhamento e planejamento, garantindo que o desenvolvimento do front-end estivesse integrado com o processamento de dados realizado pelo back-end. Trabalhei lado a lado com colegas de desenvolvimento e design, dividindo responsabilidades de maneira equilibrada.
 - **Comunicação**: Mantive comunicação constante através do Slack e em reuniões semanais para esclarecer dúvidas, reportar progresso e levantar necessidades técnicas, facilitando a fluidez do projeto e evitando retrabalho.
 - **Responsabilidade**: Assumi autonomamente a responsabilidade pelo desenvolvimento de telas principais do sistema, entregando funcionalidades dentro dos prazos combinados e me comprometendo a manter o alto padrão de qualidade do projeto.
 - **Pensamento Crítico**: Realizei testes de usabilidade e análises constantes sobre a interação dos usuários com o dashboard, propondo melhorias para tornar a experiência mais intuitiva, como otimizações nos filtros e nos layouts dos gráficos.
 
-### 👩‍💻 **Hard Skills**
+👩‍💻 **Hard Skills**
 
 - **React**: Uso com autonomia para desenvolvimento completo da interface do dashboard, criação de componentes reutilizáveis e adaptação responsiva da aplicação.
 - **TypeScript**: Uso com autonomia para definição de tipagens seguras nos componentes e melhoria da qualidade e legibilidade do código front-end.
@@ -186,7 +186,7 @@ Foi criado um sistema web que importa dados diretamente de arquivos Excel, armaz
 - **GitHub**: Uso com autonomia para versionamento do projeto, gerenciamento de branches e colaboração no repositório em equipe.
 - **Trello**: Uso com autonomia para organização de tarefas, acompanhamento de sprints e priorização das entregas durante o projeto.
  
-### 📍 **Minhas Contribuições**
+📍 **Minhas Contribuições**
 
 Atuei como desenvolvedora, sendo responsável pela implementação da estrutura visual do sistema, incluindo o dashboard de vendas e gráficos interativos. Trabalhei de forma próxima ao time para garantir que os dados extraídos dos arquivos Excel fossem exibidos corretamente na interface. Participei na prototipação de telas no Figma e sugeri melhorias para tornar a navegação mais intuitiva. Auxiliei também nos testes de validação de dados e usabilidade, garantindo consistência entre o que era exibido no sistema e os dados reais da empresa, contribuindo para uma solução confiável e funcional.
 
@@ -218,7 +218,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 |-----------------|-----------------|-----------------|-----------------|----------------|----------------|-----------------|
 | Desenvolvimento da interface interativa com componentes dinâmicos e responsivos. | Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade. | Desenvolvimento da lógica de backend e integração com banco de dados. | Modelagem e persistência dos dados de usuários, permissões e atividades. | Criação de protótipos e validação das telas com stakeholders. | Versionamento e organização do código do projeto. | Gestão de tarefas, sprints e prioridades durante o ciclo de desenvolvimento. |
 	
- 🗣️ **Soft Skills Desenvolvidas**
+ 🗣️ **Soft Skills**
 
 * Trabalho em Equipe: Colaborei intensamente com os membros da equipe, garantindo que as diferentes partes do sistema se integrassem de forma eficiente. Isso incluiu o desenvolvimento colaborativo das funcionalidades de controle de tarefas, onde discutíamos e planejávamos as melhores soluções para os problemas apresentados pela JJM Log.
 
@@ -239,6 +239,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 * Trello: Uso com autonomia para organizar tarefas, definir prioridades e acompanhar o progresso do projeto durante o ciclo de desenvolvimento.
 
 📍 **Minhas Contribuições**
+
 Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Trabalhei de forma colaborativa com a equipe de back-end para garantir que os dados fossem corretamente exibidos e atualizados em tempo real. Também ajudei a criar os protótipos de interface no Figma e participei ativamente das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
 
 ## 2025 - 5º Semestre
@@ -249,15 +250,19 @@ Neste projeto, fui responsável pela criação da interface front-end do sistema
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
 🎯 **Objetivo do Projeto**
+
 O objetivo deste projeto foi criar um aplicativo móvel para a solicitação de reembolsos de despesas pelos colaboradores da GSW Software. A principal meta foi automatizar e agilizar o processo de solicitação, garantindo que os dados de reembolso fossem registrados com precisão, enviados para aprovação de forma eficiente e gerenciados de maneira centralizada.
 
 🏢 **Sobre a Empresa**
+
 A GSW Software é uma empresa especializada no desenvolvimento de soluções tecnológicas para otimização de processos empresariais. A empresa oferece sistemas personalizados, incluindo ERP e ferramentas para gestão de despesas, sempre focada em aumentar a produtividade e a eficiência dos seus clientes.
 
 📍 **Problema**
+
 A GSW Software enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que gerava atrasos e inconsistências nas informações. A ausência de um sistema automatizado dificultava a auditoria e o controle das despesas, o que resultava em uma experiência pouco ágil para os colaboradores e para o setor financeiro da empresa.
 
 📍 **Solução**
+
 Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registrassem suas despesas de forma rápida e segura, anexassem comprovantes e enviassem as solicitações diretamente para o setor financeiro. O sistema também possui uma área administrativa para análise e aprovação dos reembolsos, com visualização de históricos e relatórios detalhados.
 
 🔧 **Tecnologias Utilizadas**
@@ -279,6 +284,7 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 * Organização: Com a gestão de tarefas no Jira, ajudei a organizar as atividades do projeto, focando nas prioridades e mantendo todos os membros da equipe cientes dos prazos. Isso garantiu uma boa fluidez durante o desenvolvimento e a entrega das funcionalidades planejadas.
 
 👩‍💻 **Hard Skills**
+
 * TypeScript: Uso com autonomia para tipagem segura e melhoria da qualidade do código.
 * JavaScript: Uso com autonomia para desenvolver funcionalidades dinâmicas e integrar com APIs.
 * React: Uso com autonomia para criar componentes reutilizáveis e desenvolver a interface web responsiva.
@@ -292,4 +298,5 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 * JIRA: Uso com autonomia para gerenciar tarefas, acompanhar progresso e priorizar sprints no desenvolvimento ágil.
 
 📍 **Minhas Contribuições**
+
 Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do upload de foto de perfil, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
