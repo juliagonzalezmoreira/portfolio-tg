@@ -103,7 +103,7 @@ O projeto desenvolvido no 2º semestre teve como objetivo criar um assistente vi
 
 📍**Problema**
 
-Usuários tinham dificuldade em encontrar informações específicas dentro de grandes volumes de documentação técnica e acadêmica. A leitura manual dos documentos era demorada, pouco eficiente e gerava retrabalho.
+Os usuários tinham dificuldade em encontrar informações específicas dentro de grandes volumes de documentação técnica e acadêmica. A leitura manual dos documentos era demorada, pouco eficiente e gerava retrabalho.
 
 📍 **Solução**
 
@@ -117,26 +117,24 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
  🗣️ **Soft Skills**
  
-* Colaboração: Trabalhei em conjunto com desenvolvedores de front-end, back-end e banco de dados para garantir que todas as partes do sistema estivessem integradas corretamente. Em uma das sprints, organizei sessões de revisão de código para alinhar o estilo e boas práticas entre a equipe.
+* Colaboração: Trabalhei com foco no desenvolvimento da interface do sistema, mas em conjunto com os desenvolvedores no back-end e banco de dados para garantir que todas as partes do sistema estivessem integradas corretamente.
 
 * Proatividade: Durante a fase de testes, identifiquei uma inconsistência na navegação entre telas da interface e sugeri melhorias para tornar a experiência mais fluida, o que foi rapidamente aprovado e implementado pelo time.
 
-* Comunicação: Em reuniões de sprint e revisões, utilizei habilidades de comunicação para explicar a importância de alterações no fluxo da interface, facilitando o entendimento técnico entre membros que tinham níveis de conhecimento diferentes.
+* Comunicação: Em reuniões de sprint e revisões, utilizei habilidades de comunicação para explicar a importância de alterações no fluxo da interface, facilitando o entendimento técnico entre membros.
 
 👩‍💻 **Hard Skills**
 
 * Java: Uso com ajuda para desenvolvimento da interface gráfica e integração com o back-end.
 * Gradle: Uso com ajuda, na automação de builds e gerenciamento de dependências.
-* MySQL: Uso com autonomia, para modelagem e implementação básica do banco de dados.
-* Figma: Uso com autonomia, para criação e interpretação de protótipos de interface.
-* GitHub: Uso com autonomia, para versionamento do código e integração contínua.
+* MySQL: Uso com autonomia para modelagem e implementação básica do banco de dados.
+* Figma: Uso com autonomia para criação e interpretação de protótipos de interface.
+* GitHub: Uso com autonomia para versionamento do código e integração contínua.
 * Trello: Uso com autonomia para organização e gestão das tarefas no projeto.
 
 📍 **Minhas Contribuições**
 
-Neste projeto, atuei como desenvolvedora front-end, sendo responsável pela construção das telas de interação do chatbot. Utilizando bibliotecas gráficas do Java, desenvolvi a interface do usuário baseada nos protótipos definidos no Figma, garantindo simplicidade e eficiência na navegação.
-Colaborei diretamente com o time de back-end para definir o fluxo de dados entre a interface gráfica e a lógica de leitura dos documentos. Também participei da modelagem inicial do banco de dados, contribuindo para a definição dos níveis de acesso dos usuários e a estruturação das tabelas no MySQL.
-Além disso, participei ativamente das etapas de prototipação, validação de funcionalidades durante os testes de usabilidade, e da entrega final do projeto, garantindo que a interface estivesse integrada corretamente ao sistema.
+Neste projeto, atuei como desenvolvedora, sendo responsável pela construção das telas de interação do chatbot. Utilizando bibliotecas gráficas do Java, desenvolvi a interface do usuário baseada nos protótipos definidos no Figma, garantindo simplicidade e eficiência na navegação. Colaborei diretamente com o time no back-end para definir o fluxo de dados entre a interface gráfica e a lógica de leitura dos documentos. Também participei da modelagem inicial do banco de dados, contribuindo para a definição e a estruturação das tabelas no MySQL. Além disso, participei ativamente das etapas de prototipação, validação de funcionalidades, e da entrega final do projeto, garantindo que a interface estivesse integrada corretamente ao sistema.
 
 ## **2024 - 3º Semestre**
 ### Dashboard Pro4Tech
@@ -155,7 +153,7 @@ A Pro4Tech é uma empresa especializada em Digital Transformation, comprometida 
 
 📍 **Problema**
 
-A Pro4Tech enfrentava o desafio de gerenciar e interpretar grandes volumes de dados de vendas que estavam armazenados em planilhas Excel. Embora os dados estivessem bem estruturados, a empresa enfrentava dificuldades em visualizar informações importantes de forma rápida e eficiente. Os relatórios manualmente gerados a partir das planilhas eram demorados e complexos, o que tornava o processo de tomada de decisão mais lento e sujeito a erros. Além disso, a necessidade de gerar relatórios segmentados e personalizáveis não era atendida pelas ferramentas existentes, tornando o trabalho dos analistas muito mais desafiador.
+A Pro4Tech enfrentava o desafio de gerenciar e interpretar grandes volumes de dados de vendas que estavam armazenados em planilhas Excel. A empresa enfrentava dificuldades em visualizar informações importantes de forma rápida e eficiente. Os relatórios manualmente gerados a partir das planilhas eram demorados e complexos, o que tornava o processo de tomada de decisão mais lento e sujeito a erros.
 
 📍 **Solução**
 
@@ -170,10 +168,10 @@ Foi criado um sistema web que importa dados diretamente de arquivos Excel, armaz
 
 🗣️ **Soft Skills**
 
-- **Trabalho em Equipe**: Participei ativamente de reuniões de alinhamento e planejamento, garantindo que o desenvolvimento do front-end estivesse integrado com o processamento de dados realizado pelo back-end. Trabalhei lado a lado com colegas de desenvolvimento e design, dividindo responsabilidades de maneira equilibrada.
-- **Comunicação**: Mantive comunicação constante através do Slack e em reuniões semanais para esclarecer dúvidas, reportar progresso e levantar necessidades técnicas, facilitando a fluidez do projeto e evitando retrabalho.
-- **Responsabilidade**: Assumi autonomamente a responsabilidade pelo desenvolvimento de telas principais do sistema, entregando funcionalidades dentro dos prazos combinados e me comprometendo a manter o alto padrão de qualidade do projeto.
-- **Pensamento Crítico**: Realizei testes de usabilidade e análises constantes sobre a interação dos usuários com o dashboard, propondo melhorias para tornar a experiência mais intuitiva, como otimizações nos filtros e nos layouts dos gráficos.
+- **Trabalho em Equipe**: Participei ativamente de reuniões de alinhamento e planejamento, garantindo que o desenvolvimento do front-end estivesse integrado com o processamento de dados realizado pelo back-end. Trabalhei lado a lado com colegas de desenvolvimento, dividindo responsabilidades de maneira equilibrada.
+- **Comunicação**: Mantive comunicação constante para esclarecer dúvidas, reportar progresso e levantar necessidades técnicas, facilitando a fluidez do projeto e evitando retrabalho.
+- **Responsabilidade**: Assumi autonomamente a responsabilidade pelo desenvolvimento de algumas telas e gráficos do sistema, entregando funcionalidades dentro dos prazos combinados e me comprometendo a manter o alto padrão de qualidade do projeto.
+- **Pensamento Crítico**: Realizei testes e análises constantes sobre a interação dos usuários com o dashboard, propondo melhorias para tornar a experiência mais intuitiva, como otimizações nos filtros e nos layouts dos gráficos.
 
 👩‍💻 **Hard Skills**
 
@@ -222,7 +220,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 * Trabalho em Equipe: Colaborei intensamente com os membros da equipe, garantindo que as diferentes partes do sistema se integrassem de forma eficiente. Isso incluiu o desenvolvimento colaborativo das funcionalidades de controle de tarefas, onde discutíamos e planejávamos as melhores soluções para os problemas apresentados pela JJM Log.
 
-* Comunicação: Durante o desenvolvimento, participei de reuniões regulares para garantir que as funcionalidades do sistema atendiam às necessidades reais da empresa. Mantive uma comunicação clara e objetiva, reportando progresso, esclarecendo dúvidas e levantando pontos de melhoria de forma eficiente. Essa comunicação constante foi fundamental para o alinhamento das expectativas e para evitar retrabalho.
+* Comunicação: Durante o desenvolvimento, participei de reuniões para garantir que as funcionalidades do sistema atendiam às necessidades reais da empresa. Mantive uma comunicação clara e objetiva, reportando progresso, esclarecendo dúvidas e levantando pontos de melhoria de forma eficiente. Essa comunicação constante foi fundamental para o alinhamento das expectativas e para evitar retrabalho.
 
 * Proatividade: Identifiquei e sugeri melhorias no fluxo de trabalho do sistema. Também participei ativamente de testes de usabilidade, sugerindo ajustes para melhorar a experiência do usuário e otimizar processos internos.
 
@@ -240,7 +238,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 📍 **Minhas Contribuições**
 
-Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Trabalhei de forma colaborativa com a equipe de back-end para garantir que os dados fossem corretamente exibidos e atualizados em tempo real. Também ajudei a criar os protótipos de interface no Figma e participei ativamente das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
+Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Também trabalhei de forma colaborativa com a equipe no back-end para garantir que os dados fossem corretamente exibidos e atualizados em tempo real. Também ajudei a criar os protótipos de interface no Figma e participei ativamente das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
 
 ## 2025 - 5º Semestre
 ### Sistema de Reembolso
@@ -273,15 +271,15 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 
 🗣️ **Soft Skills**
 
-* Trabalho em Equipe: Colaborei estreitamente com os colegas de desenvolvimento, garantindo que a integração entre as diferentes partes do sistema, como a lógica de upload de foto de perfil e a implementação da página inicial, fosse fluida e eficiente. Além disso, participei ativamente de reuniões de alinhamento e sprint, ajudando a organizar a distribuição de tarefas.
+* Trabalho em Equipe: Colaborei estreitamente com os colegas de desenvolvimento, garantindo que a integração entre as diferentes partes do sistema, como a lógica de uploads, a implementação da página inicial e cadastro de despesas, fosse fluida e eficiente. Além disso, participei ativamente de reuniões de alinhamento e sprint, ajudando a organizar a distribuição de tarefas.
 
 * Comunicação: Mantive uma comunicação constante com a equipe, utilizando o Jira para acompanhar o progresso e o Slack para esclarecer dúvidas. A comunicação aberta permitiu identificar rapidamente problemas e implementações que necessitavam de ajustes, garantindo entregas rápidas e eficientes.
 
 * Responsabilidade: Assumi a responsabilidade pelo desenvolvimento da página inicial, garantindo que fosse não apenas funcional, mas também intuitiva e alinhada com as expectativas dos usuários, buscando garantir que o fluxo fosse simples e direto.
 
-* Pensamento Crítico: Durante o desenvolvimento das funcionalidades de usabilidade, como os alertas de confirmação e feedback para o upload de foto, propondo soluções que facilitassem a navegação e aumentassem a eficiência. Sempre busquei identificar possíveis melhorias, como ajustes no layout da página inicial, para garantir que a experiência do usuário fosse otimizada.
+* Pensamento Crítico: Durante o desenvolvimento das funcionalidades de usabilidade, como os alertas de confirmação e feedback, propondo soluções que facilitassem a navegação e aumentassem a eficiência. Sempre busquei identificar possíveis melhorias, como ajustes no layout da página inicial, para garantir que a experiência do usuário fosse otimizada.
 
-* Organização: Com a gestão de tarefas no Jira, ajudei a organizar as atividades do projeto, focando nas prioridades e mantendo todos os membros da equipe cientes dos prazos. Isso garantiu uma boa fluidez durante o desenvolvimento e a entrega das funcionalidades planejadas.
+* Organização: Com a gestão de tarefas no Jira, ajudei a organizar as atividades do projeto, focando na prioridade das tarefas. Isso garantiu uma boa fluidez durante o desenvolvimento e a entrega das funcionalidades planejadas.
 
 👩‍💻 **Hard Skills**
 
@@ -299,4 +297,4 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 
 📍 **Minhas Contribuições**
 
-Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do upload de foto de perfil, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
+Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de multíplas despesas e exibição das fotos de peril e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
