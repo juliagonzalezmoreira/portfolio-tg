@@ -67,7 +67,7 @@ A solução foi um site desenvolvido com Flask (Python) para a parte de back-end
 
  🗣️ **Soft Skills**
  
-* Comunicação: Facilitei a comunicação entre os membros da equipe e o cliente (professor Egydio) para garantir que os requisitos fossem compreendidos e atendidos. Durante as reuniões de sprint, fui capaz de esclarecer dúvidas sobre as funcionalidades do sistema de avaliação e garantir que todos estivessem alinhados com os objetivos do projeto.
+* Comunicação: Facilitei a comunicação entre os membros da equipe e o cliente para garantir que os requisitos fossem compreendidos e atendidos. Durante as reuniões de sprint, fui capaz de esclarecer dúvidas sobre as funcionalidades do sistema de avaliação e garantir que todos estivessem alinhados com os objetivos do projeto.
 
 * Liderança: Como Product Owner, fui responsável pela organização do backlog e pela priorização das funcionalidades do projeto. Liderava as reuniões de planejamento e revisão de sprint, ajudando a equipe a entender as necessidades do cliente e a adaptar as entregas ao longo do projeto.
 
@@ -117,11 +117,13 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
  🗣️ **Soft Skills**
  
-* Colaboração: Trabalhei com foco no desenvolvimento da interface do sistema, mas em conjunto com os desenvolvedores no back-end e banco de dados para garantir que todas as partes do sistema estivessem integradas corretamente.
+* Colaboração Eficaz: Trabalhei de forma colaborativa com a equipe para alinhar os requisitos, garantindo que a interface do chatbot se comunicasse perfeitamente com a lógica de processamento e o modelo de dados.
 
-* Proatividade: Durante a fase de testes, identifiquei uma inconsistência na navegação entre telas da interface e sugeri melhorias para tornar a experiência mais fluida, o que foi rapidamente aprovado e implementado pelo time.
+* Proatividade e Resolução de Problemas: Identifiquei inconsistências na navegação entre telas da interface e propus uma reorganização do fluxo de telas para tornar a experiência mais intuitiva. Essa iniciativa foi rapidamente validada pelo time, resultando em redução de retrabalhos e melhoria imediata na usabilidade do protótipo.
 
-* Comunicação: Em reuniões de sprint e revisões, utilizei habilidades de comunicação para explicar a importância de alterações no fluxo da interface, facilitando o entendimento técnico entre membros.
+* Comunicação: Em reuniões de sprint e revisões de funcionalidades, apresentei argumentos técnicos sólidos para justificar ajustes no design da interface, traduzindo requisitos de UX em tarefas práticas para desenvolvedores. Facilitei o entendimento entre os membros, promovendo discussões focadas em dados de uso e boas práticas de interface.
+
+* Flexibilidade e Adaptação: Ajustei minhas entregas conforme o feedback do time, reconfigurando rapidamente protótipos quando novas prioridades surgiram. Essa agilidade permitiu ao projeto manter o cronograma sem comprometer a qualidade.
 
 👩‍💻 **Hard Skills**
 
@@ -297,4 +299,4 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 
 📍 **Minhas Contribuições**
 
-Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de multíplas despesas e exibição das fotos de peril e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
+Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de múltiplas despesas e exibição das fotos de peril e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
