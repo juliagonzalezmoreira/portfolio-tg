@@ -328,7 +328,7 @@ Foi desenvolvida uma plataforma web com chatbot integrado a um modelo de IA capa
 
 🔧 **Tecnologias Utilizadas**
 
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) | ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) | ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 |-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|----------------|----------------|
 | Linguagem principal utilizada no desenvolvimento do backend, garantindo robustez e segurança nas operações. | Integração com o modelo de IA e processamento de requisições. | Construção da interface web interativa e responsiva. | Documentação e testes da API. | Integração e testes com o modelo de IA. | Criação de protótipos de telas e definição da experiência do usuário. | Modelagem e persistência de dados. | Gestão de tarefas, sprints e acompanhamento do progresso do projeto. |
 
@@ -342,7 +342,7 @@ Foi desenvolvida uma plataforma web com chatbot integrado a um modelo de IA capa
 
 * Flexibilidade e Adaptação: Ajustei as entregas conforme feedbacks rápidos da equipe, o que ajudou a manter o cronograma do projeto sem perder qualidade.
 
-👩‍💻 Hard Skills
+👩‍💻 **Hard Skills**
 
 * Java & Spring Boot: Uso com ajuda para desenvolvimento da API principal e integração entre front-end e back-end.
 * Python: Uso com ajuda para integração do modelo de IA e testes de requisições.
