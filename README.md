@@ -26,6 +26,8 @@ Acredito firmemente que a tecnologia é uma poderosa ferramenta para impulsionar
   • <a href="#dashboard-pro4tech"> 2024-1: Dashboard Pro4Tech </a>  </br>
   • <a href="#we-coleb"> 2024-2: WE COLEB </a>  </br>
   • <a href="#sistema-de-reembolso"> 2025-1: Sistema de Reembolso </a>  </br>
+  • <a href="#nutrimind"> 2025-2: NutriMind </a>  </br>
+
 </p>
 
 ## Contatos
@@ -300,3 +302,59 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 📍 **Minhas Contribuições**
 
 Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de múltiplas despesas e exibição das fotos de peril e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
+
+## 2025 - 6º Semestre
+### NutriMind
+
+👥 **Parceiro acadêmico:** Xertica
+
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
+
+🎯 **Objetivo do Projeto**
+
+O objetivo do projeto foi desenvolver uma plataforma web inteligente voltada para nutrição personalizada. O sistema combina um chatbot com IA e um processo de validação humana (HITL), oferecendo planos alimentares e recomendações seguras, práticas e adaptadas ao perfil de cada usuário.
+
+🏢 **Sobre a Empresa**
+
+A Xertica é uma empresa voltada à inovação tecnológica, com foco em automação e inteligência artificial aplicada a negócios. O projeto NutriMind nasceu da proposta de unir tecnologia e bem-estar, permitindo que o acompanhamento nutricional se tornasse mais acessível e eficiente.
+
+📍 **Problema**
+
+Usuários enfrentam dificuldades para manter hábitos saudáveis e acessar suporte nutricional confiável de forma acessível. Além disso, há falta de ferramentas que integrem recomendações inteligentes com a validação de um profissional de saúde, o que compromete a segurança das orientações alimentares.
+
+📍 **Solução**
+
+Foi desenvolvida uma plataforma web com chatbot integrado a um modelo de IA capaz de gerar planos alimentares, sugerir receitas e responder dúvidas. O sistema inclui autenticação de usuários, gerenciamento de perfil e painel de administração para revisão profissional das respostas, garantindo precisão e credibilidade nas recomendações.
+
+🔧 **Tecnologias Utilizadas**
+
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) | ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|----------------|----------------|
+| Linguagem principal utilizada no desenvolvimento do backend, garantindo robustez e segurança nas operações. | Integração com o modelo de IA e processamento de requisições. | Construção da interface web interativa e responsiva. | Documentação e testes da API. | Integração e testes com o modelo de IA. | Criação de protótipos de telas e definição da experiência do usuário. | Modelagem e persistência de dados. | Gestão de tarefas, sprints e acompanhamento do progresso do projeto. |
+
+🗣️ **Soft Skills**
+
+* Colaboração Eficaz: Trabalhei de forma colaborativa com a equipe para alinhar os requisitos e garantir que a integração entre o chatbot, o front-end e o back-end fosse fluida e funcional.
+
+* Proatividade e Resolução de Problemas: Identifiquei gargalos na navegação e propus reorganização do fluxo de telas, o que reduziu retrabalhos e melhorou a experiência do usuário.
+
+* Comunicação: Em reuniões de sprint, contribuí com explicações técnicas e sugestões de ajustes de design, facilitando o entendimento entre desenvolvedores e designers.
+
+* Flexibilidade e Adaptação: Ajustei as entregas conforme feedbacks rápidos da equipe, o que ajudou a manter o cronograma do projeto sem perder qualidade.
+
+👩‍💻 Hard Skills
+
+* Java & Spring Boot: Uso com ajuda para desenvolvimento da API principal e integração entre front-end e back-end.
+* Python: Uso com ajuda para integração do modelo de IA e testes de requisições.
+* Vue.js & TypeScript: Uso com ajuda para desenvolvimento da interface web e integração com a API.
+* Swagger: Uso com ajuda para documentação e validação de endpoints.
+* Google ADK: Uso com ajuda para integração com o modelo de IA, possibilitando a comunicação entre o chatbot e o back-end.
+* PostgreSQL: Uso com ajuda para modelagem e persistência de dados.
+* Figma: Uso com autonomia para interpretar e ajustar protótipos de interface.
+* Jira: Uso com autonomia para gerenciar backlog, sprints e acompanhar o progresso do time.
+* GitHub: Uso com autonomia para versionamento de código e integração contínua.
+* Teams: Uso com autonomia para comunicação e alinhamento de tarefas.
+
+📍 **Minhas Contribuições**
+
+Atuei como Scrum Master, organizando as sprints e auxiliando na definição das prioridades de desenvolvimento. Contribuí principalmente no front-end e nos testes da aplicação, revisando funcionalidades e garantindo a qualidade das entregas. Também participei ativamente das discussões de alinhamento, ajudando a identificar impedimentos, propor melhorias e acompanhar o progresso do time. Além disso, colaborei na melhoria da experiência do usuário, sugerindo ajustes visuais e funcionais para tornar o sistema mais intuitivo e eficiente.
