@@ -10,11 +10,11 @@ Olá, Meu nome é Julia Gonzalez Moreira e atualmente estou cursando o 5º semes
  
 Minha trajetória na área de tecnologia teve início no ensino médio técnico, onde tive minhas primeiras experiências com programação e sistemas. Esta base inicial foi fundamental para o desenvolvimento do meu interesse em desenvolvimento de software e qualidade de sistemas. Ao ingressar na FATEC, percebi a oportunidade de transformar minha curiosidade em uma carreira promissora, focada em inovação e aprimoramento constante.
  
-Durante minha jornada acadêmica, tenho me dedicado ao aprofundamento no desenvolvimento web e na qualidade de software, buscando constantemente evoluir tanto minhas habilidades técnicas quanto as competências interpessoais essenciais para o ambiente profissional. No decorrer do curso, tive a oportunidade de trabalhar com diversas tecnologias e aprofundar meus conhecimentos em metodologias ágeis. Uma experiência significativa foi minha atuação como Product Owner em um projeto acadêmico, no qual gerenciei o backlog, priorizei as tarefas e facilitei a comunicação entre a equipe e o cliente.
+Durante o curso, me dediquei principalmente ao desenvolvimento web e à qualidade de software, sempre buscando evoluir tanto tecnicamente quanto nas habilidades interpessoais. Trabalhei com diversas tecnologias e aprofundei meus conhecimentos em metodologias ágeis. Tive experiências importantes atuando como Product Owner e Scrum Master em projetos acadêmicos, onde gerenciei backlogs, priorizei tarefas, organizei sprints e facilitei a comunicação entre equipes e clientes.
  
-Profissionalmente, tive a oportunidade de atuar na área de testes de software atuando como estagiária na empresa SmarterTest, realizando testes manuais e automatizados utilizando ferramentas como Cypress e Playwright. Desenvolvi scripts de automação com o objetivo de otimizar fluxos de trabalho e garantir a qualidade e validação dos requisitos funcionais e não funcionais de sistemas. Além disso, possuo experiência no desenvolvimento de interfaces web responsivas, utilizando React, HTML, CSS e JavaScript, e na implementação de soluções com TypeScript e SQL. Ao longo dessas experiências, trabalhei com metodologias ágeis, como Scrum e Kanban, visando otimizar processos e entregar soluções de qualidade.
+Profissionalmente, trabalhei como estagiária na área de testes de software na empresa SmarterTest, onde realizei testes manuais e automatizados usando ferramentas como Cypress e Playwright. Desenvolvi scripts de automação para otimizar fluxos de trabalho e garantir a qualidade dos sistemas. Atualmente, atuo como Analista de Desenvolvimento QA na Inside The Box, realizando testes de software para garantir a qualidade dos produtos desenvolvidos. Também tenho experiência no desenvolvimento de interfaces web responsivas com React, HTML, CSS e JavaScript, além de trabalhar com TypeScript e SQL. Nessas experiências, utilizei metodologias ágeis como Scrum e Kanban para otimizar processos e entregar soluções de qualidade.
  
-Acredito firmemente que a tecnologia é uma poderosa ferramenta para impulsionar a inovação e melhorar a qualidade de vida das pessoas. Estou constantemente disposta a aprender, me adaptar às mudanças do setor e contribuir com minha experiência para alcançar resultados excepcionais.
+Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a inovação e melhorar a qualidade de vida das pessoas. Estou sempre disposta a aprender, me adaptar às mudanças do setor e contribuir com minha experiência para alcançar bons resultados.
 
 <br>
 
@@ -55,7 +55,7 @@ O projeto consistiu no desenvolvimento de um site informativo simples e funciona
 
 📍**Problema**
 
-O problema identificado foi a dificuldade dos alunos em entender de forma prática os conceitos da Metodologia Ágil, bem como aplicar esses conceitos no dia a dia de projetos. A solução necessária deveria ser acessível, de fácil navegação e com um sistema de avaliação que medisse o aprendizado do usuário.
+Os alunos enfrentavam dificuldades significativas para compreender os conceitos teóricos da Metodologia Ágil de forma prática e aplicável. O material disponível era disperso, muitas vezes técnico demais ou muito superficial, o que dificultava o aprendizado efetivo. Além disso, não havia uma forma clara e objetiva de avaliar se o conhecimento estava sendo realmente absorvido pelos estudantes, gerando insegurança sobre o domínio dos conceitos fundamentais necessários para aplicar metodologias ágeis em projetos reais.
 
 📍 **Solução**
 
@@ -105,7 +105,7 @@ O projeto desenvolvido no 2º semestre teve como objetivo criar um assistente vi
 
 📍**Problema**
 
-Os usuários tinham dificuldade em encontrar informações específicas dentro de grandes volumes de documentação técnica e acadêmica. A leitura manual dos documentos era demorada, pouco eficiente e gerava retrabalho.
+Profissionais e estudantes frequentemente precisam consultar extensos volumes de documentação técnica e acadêmica para encontrar informações específicas. A leitura manual desses documentos consome muito tempo e esforço, especialmente quando é necessário localizar um conceito ou informação pontual dentro de centenas de páginas. Essa busca manual é ineficiente, gera retrabalho constante e muitas vezes resulta em informações não encontradas ou encontradas de forma incompleta, impactando negativamente a produtividade e a qualidade do trabalho desenvolvido.
 
 📍 **Solução**
 
@@ -149,11 +149,11 @@ Neste projeto, atuei como desenvolvedora, sendo responsável pela construção d
 
 🎯 **Objetivo do Projeto**
 
-O objetivo deste projeto foi criar um dashboard dinâmico e interativo para análise e visualização de dados de vendas. O sistema foi projetado para gerar insights visuais claros e rápidos, permitindo que a Pro4Tech tomasse decisões estratégicas baseadas em dados reais, a principal meta foi facilitar a interpretação de grandes volumes de dados de vendas.
+O objetivo foi criar um dashboard dinâmico e interativo para análise e visualização de dados de vendas. O sistema foi projetado para gerar insights visuais claros e rápidos, permitindo que a Pro4Tech tomasse decisões estratégicas baseadas em dados reais. A principal meta foi facilitar a interpretação de grandes volumes de dados de vendas.
 
 🏢 **Sobre a Empresa**
 
-A Pro4Tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital combinando tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas a capacidade de desenvolver estratégias personalizadas para cada negócio.
+A Pro4Tech é uma empresa especializada em Transformação Digital, que ajuda negócios a terem sucesso na era digital combinando tecnologias como inteligência artificial, análise de dados, IoT e nuvem, além de desenvolver estratégias personalizadas para cada negócio.
 
 📍 **Problema**
 
@@ -209,7 +209,7 @@ A JJM Log é uma empresa de logística que atua na gestão de transporte, armaze
 
 📍 **Problema**
 
-A empresa enfrentava desafios relacionados ao controle de processos internos, com fluxos manuais e o uso de múltiplas ferramentas não integradas, o que dificultava a visibilidade e a colaboração entre departamentos. A falta de uma plataforma centralizada resultava em ineficiência e dificuldades na comunicação entre as equipes.
+A empresa enfrentava desafios significativos no controle de processos internos, com a maioria dos fluxos sendo executados de forma manual através de planilhas, e-mails e documentos físicos. Diferentes departamentos utilizavam ferramentas distintas e não integradas, o que gerava falta de visibilidade sobre o status real das atividades e dificultava a colaboração entre equipes. A ausência de uma plataforma centralizada resultava em perda de informações, duplicação de esforços, dificuldades na comunicação entre setores e atrasos na tomada de decisões, impactando diretamente a eficiência operacional da empresa.
 
 📍 **Solução**
 
@@ -242,7 +242,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 📍 **Minhas Contribuições**
 
-Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Também trabalhei de forma colaborativa com a equipe no back-end para garantir que os dados fossem corretamente exibidos e atualizados em tempo real. Também ajudei a criar os protótipos de interface no Figma e participei ativamente das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
+Neste projeto, fui responsável pela criação da interface front-end do sistema, incluindo dashboards, formulários e controle de tarefas. Também trabalhei junto com a equipe no back-end para garantir que os dados fossem exibidos e atualizados corretamente em tempo real. Ajudei a criar os protótipos de interface no Figma e participei das discussões sobre o design, propondo melhorias para tornar a navegação mais intuitiva. Além disso, contribuí para o processo de testes, validando a experiência do usuário e garantindo que o sistema atendesse aos requisitos de usabilidade e funcionalidade definidos pela JJM Log.
 
 ## 2025 - 5º Semestre
 ### Sistema de Reembolso
@@ -261,7 +261,7 @@ A GSW Software é uma empresa especializada no desenvolvimento de soluções tec
 
 📍 **Problema**
 
-A GSW Software enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que gerava atrasos e inconsistências nas informações. A ausência de um sistema automatizado dificultava a auditoria e o controle das despesas, o que resultava em uma experiência pouco ágil para os colaboradores e para o setor financeiro da empresa.
+A GSW Software enfrentava dificuldades significativas com o processo manual de solicitação de reembolsos de despesas. Os colaboradores precisavam preencher formulários físicos ou digitais, imprimir comprovantes, entregar pessoalmente ou enviar por e-mail, o que gerava atrasos no processamento e inconsistências nas informações registradas. A ausência de um sistema automatizado dificultava a auditoria e o controle das despesas, resultando em uma experiência trabalhosa e demorada tanto para os colaboradores quanto para o setor financeiro, que precisava processar manualmente cada solicitação e validar os documentos anexados.
 
 📍 **Solução**
 
@@ -301,7 +301,7 @@ Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registr
 
 📍 **Minhas Contribuições**
 
-Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de múltiplas despesas e exibição das fotos de peril e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
+Contribuí para a melhoria da usabilidade do sistema, implementando alertas dinâmicos para notificações de ações como confirmação de reembolsos e erros de formulário. Fui responsável também pela implementação do cadastro de múltiplas despesas e exibição das fotos de perfil e comprovantes dos usuários, tornando a personalização das contas mais intuitiva. Além disso, participei da criação da página inicial, garantindo que os usuários tivessem uma visão rápida e clara do status das solicitações de reembolso, melhorando a navegação e a interação com o sistema.
 
 ## 2025 - 6º Semestre
 ### NutriMind
@@ -320,7 +320,7 @@ A Xertica é uma empresa voltada à inovação tecnológica, com foco em automa�
 
 📍 **Problema**
 
-Usuários enfrentam dificuldades para manter hábitos saudáveis e acessar suporte nutricional confiável de forma acessível. Além disso, há falta de ferramentas que integrem recomendações inteligentes com a validação de um profissional de saúde, o que compromete a segurança das orientações alimentares.
+Muitas pessoas enfrentam dificuldades para manter hábitos alimentares saudáveis e acessar suporte nutricional profissional de forma acessível e contínua. Consultas com nutricionistas podem ser caras e com disponibilidade limitada, enquanto informações nutricionais disponíveis na internet são frequentemente genéricas, não personalizadas e podem conter orientações contraditórias ou até mesmo inseguras. Além disso, não existem ferramentas que integrem recomendações inteligentes baseadas em inteligência artificial com a validação de um profissional de saúde, o que compromete tanto a acessibilidade quanto a segurança e credibilidade das orientações alimentares oferecidas aos usuários.
 
 📍 **Solução**
 
